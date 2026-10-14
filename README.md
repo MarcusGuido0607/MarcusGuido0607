@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋{^v^}, I'm Marcus Guido</h1>
 <h3 align="center">A passionate frontend developer from Philippines</h3>
 
-- 🌱 I’m currently learning **NU Cebu 1st year BSCS Student**
+- 🌱 I’m currently learning **NU Cebu BSCS Student**
 
 - 👨‍💻 All of my projects are available at [https://main.d1gn1uf8ng5qmn.amplifyapp.com/](https://main.d1gn1uf8ng5qmn.amplifyapp.com/)
 
